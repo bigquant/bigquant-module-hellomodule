@@ -1,7 +1,7 @@
-# bigquant-module-hellomodule
+## bigquant-module-hellomodule
 [BigQuant](https://bigquant.com/)模块：示例模块，可以作为新模块的模板，参考修改。
 
-# 模块目录结构
+## 模块目录结构
 
 ```
 模块名
@@ -10,7 +10,18 @@
         其他文件
 ```
 
-# 关于BigQuant
+
+## 如何参与修改
+
+一个模块可以有多个版本，每一个版本部署使用后，代码将不可修改。如果需要更新模块，请创建一个新的版本。
+
+1. fork项目
+2. 拷贝最新一个版本，来创建一个新的版本号
+3. 在新版本里，修改代码
+4. 发起pull request
+
+
+## 关于BigQuant
 
 [BigQuant](https://bigquant.com/) 是一个以人工智能服务于投资者的平台，为投资者提供了新型数据和智能技术。在 [BigQuant](https://bigquant.com/) 平台上，用户可以无门槛的使用人工智能来开发策略和提升策略效果。
 
